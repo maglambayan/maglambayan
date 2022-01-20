@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maglambayan
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning MATLAB and Python
 - 📚 I’m currently studying ...
 
 
