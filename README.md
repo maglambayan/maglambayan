@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maglambayan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning MATLAB and Python
-- 📚 I’m currently studying ...
+- 👀 I’m interested in everything electronics, from hardware and software.
+- 📚 I’m currently studying for a bachelor in Electronics Engineering set to graduate 2024.
 
 
 <!---
