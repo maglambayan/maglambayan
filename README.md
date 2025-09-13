@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maglambayan
-- 👀 I’m interested in everything electronics, from hardware and software.
-- 📚 I’m currently studying for a bachelor in Electronics Engineering set to graduate 2024.
-
+- 👀 I’m passionate about electronics - from embedded systems and PCB design to signal processing and control systems.
+- 🎓 I’m currently pursuing my master's degree at the University of Stavanger.
 
 <!---
 maglambayan/maglambayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
